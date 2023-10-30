@@ -1,4 +1,3 @@
-// Define the game logic and data structure
 class Game {
   constructor() {
     this.canvas = null; // The game canvas
